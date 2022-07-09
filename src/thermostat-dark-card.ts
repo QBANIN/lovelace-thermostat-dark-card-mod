@@ -204,7 +204,7 @@ export class ThermostatDarkCard extends ThermostatUserInterface {
       .dial {
         user-select: none;
         --thermostat-off-fill: #555;
-        --thermostat-idle-fill: #222;
+        --thermostat-idle-fill: #080;
         --thermostat-path-color: rgba(255, 255, 255, 0.3);
         --thermostat-heating-fill: #e36304;
         --thermostat-cooling-fill: #007af1;
