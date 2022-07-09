@@ -11,7 +11,7 @@
     "custom-cards",
     "thermostat"
   ],
-  "module": "thermostat-dark-card.js",
+  "module": "thermostat-dark-card-mod.js",
   "repository": "git@github.com:QBANIN/lovelace-thermostat-dark-card-mod.git",
   "author": "Marius Ciotlos <ciotlos@gmail.com>",
   "license": "MIT",
